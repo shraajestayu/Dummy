@@ -1,0 +1,1 @@
+from .promoinfo import *
