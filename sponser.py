@@ -4,9 +4,9 @@ from pyrogram import filters
 from pyrogram.errors import FloodWait
 from pyrogram.types import Message          
 from config import OWNER_ID
-from kyle import app, userbot
-from kyle.utils.database import (get_served_chats, get_served_users)
-from kyle.promo import (promo_photo, promo_text)
+from pandora import app, userbot
+from pandora.utils.database import (get_served_chats, get_served_users)
+from pandora.promo import (promo_photo, promo_text)
 
 p_banner = promo_photo
 p_text = promo_text
