@@ -1,3 +1,3 @@
-promo_photo="/promo/promo.jpg"
+promo_photo="/promo/photo.jpg"
 
 promo_text="" 
